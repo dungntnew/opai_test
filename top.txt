@@ -2,4 +2,9 @@
 <h1 class="title"> Hello </h1>
 
 <h2> World </h2>
+
+<list>
+  <li> Amazonで支払い</li>
+</list>
+
 </body
